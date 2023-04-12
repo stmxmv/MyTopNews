@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyTopNews</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_business">business</string>
+    <string name="tab_entertainment">entertainment</string>
+    <string name="tab_health">health</string>
+    <string name="tab_science">science</string>
+    <string name="UnresolvedAddress">Network Error</string>
+</resources>

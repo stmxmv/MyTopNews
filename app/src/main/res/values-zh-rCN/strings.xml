@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyTopNews</string>
+    <string name="tab_business">商业</string>
+    <string name="tab_entertainment">娱乐</string>
+    <string name="tab_health">健康</string>
+    <string name="tab_science">科学</string>
+    <string name="UnresolvedAddress">网络错误</string>
+</resources>
